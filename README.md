@@ -8,5 +8,5 @@ A instalação e configuração do projeto foi feito utilizando o [yarn](https:/
 O setup do projeto é bem simples e pode ser executar a partir de scripts. 
 
 ```bash
-yarn dev || yarn start
+yarn start
 ```
